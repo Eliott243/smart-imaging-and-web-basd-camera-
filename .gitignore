@@ -1,0 +1,21 @@
+# Build directories
+build/
+dist/
+__pycache__/
+
+# IDE and editor files
+.idea/
+*.pyc
+*.pyo
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PyInstaller
+*.exe
+*.egg
+
+# Screenshots
+esp32cam_*.jpg
