@@ -159,6 +159,8 @@ Voir `requirements.txt` pour la liste complète.
 
 ### Module ESP32-CAM
 **[Ajouter ici une photo du module ESP32-CAM]**
+<img width="1350" height="900" alt="image" src="https://github.com/user-attachments/assets/e2302a54-74dd-4655-90f1-1fb117ff3f1d" />
+
 
 **Spécifications :**
 - Microcontrôleur : ESP32 (WiFi + Bluetooth)
